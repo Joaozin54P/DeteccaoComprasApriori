@@ -17,4 +17,5 @@ Projeto desenvolvido em Python para identificar compras fora do padrão utilizan
 
 ## Autor
 João Pedro Machado
+
 Rebeca Matewanga
